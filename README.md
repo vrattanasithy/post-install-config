@@ -3,6 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Installation Configuration</h1>
+
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. This will require the completion of the prerequisites and install of osTicket. Please see the tutorial if that has not been done yet. The tutorial is [here](https://github.com/vrattanasithy/osticket-prereqs).
 
 All work in this tutorial will be done in the "Admin Panel."
